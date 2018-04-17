@@ -1,6 +1,7 @@
-# Analyzing_Movie_Reviews
+Analyzing_Movie_Reviews
 
 Fandango vs Metacritic Scores
+
 There are no scores below a 3.0 in the Fandango reviews. The Fandango reviews also tend to center around 4.5 and 4.0, whereas the Metacritic reviews seem to center around 3.0 and 3.5.
 
 Fandango vs Metacritic Methodology
